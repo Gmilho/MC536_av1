@@ -1,4 +1,3 @@
-Nome                       RA
-Daniel Baltieri Ismael     (247855)
-Gustavo Costa Salles Silva (198487)
-João Emílio Ferreira       (247184)
+Daniel Baltieri Ismael,     (247855);
+Gustavo Costa Salles Silva, (198487);
+João Emílio Ferreira,       (247184).
