@@ -6,10 +6,15 @@ Este projeto é autoria de:
   - [Gustavo Costa Salles Silva (198487)](https://github.com/gu-css)
   - [João Emílio Ferreira (247184)](https://github.com/Gmilho/)
 
-## Objetivos e Decisões
+## Objetivos
+O objetivo do trabalho foi criar um banco de dados simples utilizando _Postgre-Sql_, utilizando comandos encapsulados em _Python_. Para realizar a comunicação, foi utilizada a biblioteca de Python _Psycopg 2_, e blocos de código foram executados em um _notebook_ com a utilidade _Jupyter_, que também utiliza Python. Os _datasets_ escolhidos relacionam rios em estados na região econômica do Centro-Sul com suas usinas hidrelétricas, municípios por elas afetados, proprietários destas usinas e suas potências, embora não necessariamente de modo exaustivo.
 
 ## Resultados
+O modelo conceitual e o modelo lógico seguem abaixo: 
+
 [Colocar imagens]
+
+Sobre o banco de dados obtidos, forem executadas cinco _queries_, cujas descrições estão logo acima de suas implementações, em comentários no próprio _notebook_ do _Jupyer_.
 
 ## Obtendo Dependências e Executando
 Este projeto depende de [Python 3](https://www.python.org/), [Pip](https://pypi.org/project/pip/), [Jupyter](https://jupyter.org/), [Psycopg 2](https://www.psycopg.org/docs/) e [Postgre-SQL](https://www.postgresql.org/).
